@@ -1,0 +1,5 @@
+Input : 6 5 4 4
+Output : true
+
+Input : 5 15 20 10
+Output : false
